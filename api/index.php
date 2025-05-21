@@ -144,6 +144,7 @@ if (!empty($_POST['roll_data'])) {
   .success {color: #155724; background-color: #d4edda; border-color: #c3e6cb; font-weight: bold}
   .success {margin-top: -0.9rem !important}
 
+
   .check-form {margin-bottom: 1rem;}
   </style>
 </head>
